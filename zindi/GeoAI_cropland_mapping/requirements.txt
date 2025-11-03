@@ -1,0 +1,14 @@
+catboost==1.2.8
+ee==1.5.23
+geopandas==1.1.1
+lightgbm==4.6.0
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.3.0
+scikit_learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+shap==0.48.0
+Shapely==2.1.1
+tqdm==4.67.1
+xgboost==3.0.2
